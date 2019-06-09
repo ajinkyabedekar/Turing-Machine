@@ -4,6 +4,14 @@ This project was done as fulfilment of project of Theory of Computation course.
 
 The repository contains the source code of Turing Machine.
 
+The team members were:
+
+1. Ajinkya Bedekar
+
+2. Biren Sharma
+
+3. Dhruva Agarwal
+
 The code does the following tasks:
 
 1. Input two Base Four numbers with sufficient spaces between the two numbers
